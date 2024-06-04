@@ -1,0 +1,10 @@
+pyproject.toml
+genpass/__init__.py
+genpass/__main__.py
+genpass/generate.py
+genpass.egg-info/PKG-INFO
+genpass.egg-info/SOURCES.txt
+genpass.egg-info/dependency_links.txt
+genpass.egg-info/entry_points.txt
+genpass.egg-info/requires.txt
+genpass.egg-info/top_level.txt

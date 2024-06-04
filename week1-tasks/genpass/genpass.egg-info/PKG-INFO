@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: genpass
+Version: 0.1.0
+Summary: RANDOM_PASSWORD_GENERATOR
+Author-email: Stella <stelladey24@gmail.com>
+Requires-Python: >=3.9
+Requires-Dist: click>=8.1

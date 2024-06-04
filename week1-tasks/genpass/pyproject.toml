@@ -1,0 +1,15 @@
+[project]
+name = "genpass"
+version = "0.1.0"
+authors = [{ name = "Stella", email = "stelladey24@gmail.com" }]
+description = "RANDOM_PASSWORD_GENERATOR"
+requires-python = ">=3.9"
+dependencies = [
+    "click>=8.1"
+]
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+genpass = "genpass.__main__:main"
